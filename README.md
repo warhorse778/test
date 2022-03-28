@@ -2,4 +2,6 @@ Learning Java OOP through this YT video -> https://www.youtube.com/watch?v=TWFRn
 
 
 ## :boy: Author - [Mihail Stoyanov](https://github.com/warhorse778)
+[![Facebook](https://img.shields.io/badge/-Mihail%20Stoyanov-blue)](https://www.facebook.com/mihail.stoqnov.180/)
+
 
